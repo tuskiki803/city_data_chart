@@ -23,10 +23,6 @@
    - 输入城市回车/按钮查询、切换城市实时刷新图表
    - 网络/参数错误统一提示框
 
-## 加分项实现（可选拓展）
-1. 暗色/亮色主题切换（可自行拓展）
-2. 图表导出图片（ECharts自带api）
-3. 重复请求取消（axios cancelToken）
 
 ## 运行方式
 1. 将index.html直接使用浏览器打开（无需后端，纯前端项目）
@@ -37,7 +33,5 @@
 - index.html：整合HTML结构、CSS样式、全部JS业务逻辑
 - README.md：项目说明文档（本文件）
 
-## 提交规范
-1. 完整源码单HTML文件，CDN引入三方库无本地依赖
-2. 可部署至Github Pages/Vercel生成在线预览链接
-3. 演示视频：2分钟内演示搜索、图表联动、移动端适配效果
+[2.html](https://github.com/user-attachments/files/29489226/2.html)
+
